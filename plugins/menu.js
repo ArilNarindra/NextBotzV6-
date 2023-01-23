@@ -203,7 +203,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         mediaUrl: '',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ Own-Lynn ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ Aril-MD ×፝֟͜×`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ by OwnLynn ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(pp)).buffer(),
