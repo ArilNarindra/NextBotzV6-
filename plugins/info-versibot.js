@@ -40,7 +40,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ Own-Lynn ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                        mediaUrl: 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
+                        mediaUrl: 'https://www.youtube.com/@arilnarindra831'
                         
                       }}
 })
