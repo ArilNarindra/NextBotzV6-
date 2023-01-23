@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/botzlynx'
-global.syt = 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
-global.sgh = 'https://github.com/LynnXzy'
+global.sig = 'https://www.instagram.com/aril.narindra'
+global.syt = 'https://www.youtube.com/@arilnarindra831'
+global.sgh = 'https://github.com/ArilNarindra'
 global.sgc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 global.sdc = 'https://wa.me/60189830350'
-global.swa = 'wa.me/60189830350'
+global.swa = 'wa.me/6282124720691'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -45,15 +45,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60149431385'
-global.nomorown = '60189830350'
-global.namebot = 'Lynn-Md🍭'
-global.nameown = 'LynnModz🐸'
+global.nomorbot = '6282124720691'
+global.nomorown = '6282124720691'
+global.namebot = 'ARIL-MD🍭'
+global.nameown = 'ARILDEVELOPMENT🐸'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60189830350'],
+  ['6282124720691'],
   ['60149431385'],
   ['60189830350'],
   ['6014943185', 'LynnModz', true]
@@ -109,16 +109,16 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.gcname = '𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑮𝒓𝒐𝒖𝒑 𝑩𝒐𝒕𝒛 𝑳𝒚𝒏𝒏'//nama group kalian
-global.wm = 'By LynnBotz🍭' //Main Watermark
-global.wm2 = 'LynnModz🐸'
-global.wm3 = 'Lynn-Md🍭 | By OwnerBotzLyn🐸'
+global.wm = 'By BABOTZ🍭' //Main Watermark
+global.wm2 = 'ARIL-MD🐸'
+global.wm3 = 'ARIL-MD🍭 | By OwnerBotz🐸'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Lynn-Md| ʙʏ ${global.nameown}`
-global.author = 'Own-Lynn🍭' 
-global.packname = 'Lynn-Md🐸'
+global.titlebot = `ARIL-MD| ʙʏ ${global.nameown}`
+global.author = 'Own-ARIL🍭' 
+global.packname = 'ARIL-MD🐸'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'April 05 2023'
+global.ultahowner = 'Juni 05 2023'
 
 
 /*============== LOGO ==============*/
@@ -138,7 +138,7 @@ global.intro = 'https://telegra.ph/file/a7e7d0a0ca9495b89e4dd.jpg'
 global.nameowner = 'Own-Lynn🔖'
 global.umurowner = '15📍'
 global.asalowner = 'Malaysia, Sarawak🗾'
-global.nomorowner = 'wa.me/60189830350'
+global.nomorowner = 'wa.me/6282124720691'
 global.pacarowner = 'Jomblo👌'
 
 /*============== TEXT ==============*/
@@ -387,8 +387,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By baBotz'
+global.stickauth = `ARILModz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
