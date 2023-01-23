@@ -31,13 +31,13 @@ global.sig = 'https://www.instagram.com/aril.narindra'
 global.syt = 'https://www.youtube.com/@arilnarindra831'
 global.sgh = 'https://github.com/ArilNarindra'
 global.sgc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
-global.sdc = 'https://wa.me/60189830350'
+global.sdc = 'https://wa.me/6282124720691'
 global.swa = 'wa.me/6282124720691'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '082124720691'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
@@ -56,7 +56,7 @@ global.owner = [
   ['6282124720691'],
   ['60149431385'],
   ['60189830350'],
-  ['6014943185', 'LynnModz', true]
+  ['6282124720691', 'baBotzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
