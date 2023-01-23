@@ -77,13 +77,13 @@ const time = moment.tz('Asia/Jakarta').format('HH')
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ',
+                        sourceUrl: 'https://www.youtube.com/@arilnarindra831',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ Own-Lynn ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ Own-Aril ×፝֟͜×`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴹᴿ᭄ Lynn-Md ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ by ᴹᴿ᭄ ARIL-MD ×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://youtube.com/channel/UC3Y7rHuI_OmbvFdL88JF7AQ'
+                        mediaUrl: 'https://www.youtube.com/@arilnarindra831'
                         
                       }}
 })
